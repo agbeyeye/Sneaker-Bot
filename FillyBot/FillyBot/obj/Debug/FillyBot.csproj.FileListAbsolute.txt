@@ -14,3 +14,17 @@ C:\Users\NEWLIFE\documents\visual studio 2017\Projects\FillyBot\FillyBot\obj\Deb
 C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\Newtonsoft.Json.dll
 C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\Newtonsoft.Json.xml
 C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\obj\Debug\FillyBot.frmNewStore.resources
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\IronPython.dll
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\IronPython.Modules.dll
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\IronPython.SQLite.dll
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\IronPython.Wpf.dll
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\Microsoft.Scripting.dll
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\IronPython.xml
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\IronPython.Modules.xml
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\IronPython.SQLite.xml
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\IronPython.Wpf.xml
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\Microsoft.Scripting.xml
+C:\Users\NEWLIFE\Documents\Visual Studio 2017\Projects\FillyBot\FillyBot\bin\Debug\Microsoft.Scripting.Metadata.xml

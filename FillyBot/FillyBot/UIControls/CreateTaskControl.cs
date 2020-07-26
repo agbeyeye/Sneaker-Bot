@@ -144,10 +144,12 @@ namespace FillyBot.UIControls
         {
             cboStore.Items.Clear();
             cboBillingInfo.Items.Clear();
+            DbAccess = new DbController();
             //get list of stores
             stores = DbAccess.GetStores();
             loadStores(stores);
             //get list of profiles
+            profiles = new List<Profile>();
             profiles = DbAccess.GetProfiles();
             loadProfiles(profiles);
 

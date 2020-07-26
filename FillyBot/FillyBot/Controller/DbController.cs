@@ -179,14 +179,21 @@ namespace FillyBot.Controller
 
         }
         //Remove Task
-        public void RemoveTask(int index)
+        public void RemoveTask(string id)
         {
-            db.Tasks.RemoveAt(index);
-            SaveData(db);
-            //foreach(var tk in db.Tasks)
-            //{
-            //    if(tk.id == task.id) { db.Tasks.Remove(task); }
-            //}
+            if (db.Tasks != null)
+            {
+                foreach (var task in db.Tasks)
+                {
+                    if (task.id == id)
+                    {
+                        db.Tasks.Remove(task);
+                        SaveData(db);
+                        break;
+                    }
+                }
+
+            }
         }
 
 
